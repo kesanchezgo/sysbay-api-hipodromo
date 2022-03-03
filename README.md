@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Ejecución
+
+Ejecutar el proyecto: php artisan serve
+Crear migración, modelo y controlador:  php artisan make:model "Nombre-del-modelo" -mcr
+Ejecutar migraciones y generar tablas en la base de datos: php artisan migrate
+Para actualizar migraciones, campos de la base de datos: php artisan migrate:refresh
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
