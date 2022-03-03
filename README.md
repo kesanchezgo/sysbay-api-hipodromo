@@ -9,10 +9,10 @@
 
 ## Ejecución
 
-Ejecutar el proyecto: php artisan serve
-Crear migración, modelo y controlador:  php artisan make:model "Nombre-del-modelo" -mcr
-Ejecutar migraciones y generar tablas en la base de datos: php artisan migrate
-Para actualizar migraciones, campos de la base de datos: php artisan migrate:refresh
+- Ejecutar el proyecto: php artisan serve
+- Crear migración, modelo y controlador:  php artisan make:model "Nombre-del-modelo" -mcr
+- Ejecutar migraciones y generar tablas en la base de datos: php artisan migrate
+- Para actualizar migraciones, campos de la base de datos: php artisan migrate:refresh
 
 
 ## About Laravel
